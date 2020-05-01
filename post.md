@@ -1,5 +1,5 @@
-#Blog Post
-##My first Blog Post
-*post1
-*post2
-*post3
+# Class notes
+## 2020 OSSL
+* Post 1 POST.MD
+* Post 2
+* Post 3
