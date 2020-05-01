@@ -1,6 +1,9 @@
 ---
-layout: Yoonjin's post
+layout: post
+title: My first post
 ---
-## First post
-## 저는 17학번 오윤진 입니다
-###만나서 반갑습니다 
+
+## Test post 
+> This is a first blockquote.
+>> This is a second blockquote.
+>>> This is a third blockquote.
