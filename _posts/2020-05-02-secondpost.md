@@ -1,5 +1,5 @@
 ---
-layout: Second
+layout: default
 ---
 
 #아직 잘 모르겠어요
