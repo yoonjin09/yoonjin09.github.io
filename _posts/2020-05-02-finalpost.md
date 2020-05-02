@@ -1,5 +1,5 @@
 ---
-layout: Yoon jin
+layout: default
 ---
 
 ##안녕하세요 오윤진입니다
